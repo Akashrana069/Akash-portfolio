@@ -6,7 +6,7 @@ import {
   ChevronDown,
   Github,
   Linkedin,
-  Twitter,
+  Instagram,
   Download,
 } from "lucide-react";
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
@@ -121,9 +121,9 @@ export const Hero = () => {
             <div className="flex items-center gap-4 animate-fade-in animation-delay-400">
               <span className="text-sm text-muted-foreground">Follow me: </span>
               {[
-                { icon: Github, href: "#" },
-                { icon: Linkedin, href: "#" },
-                { icon: Twitter, href: "#" },
+                { icon: Github, href: "https://www.linkedin.com/in/akash-rajput-8a05a8366?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
+                { icon: Linkedin, href: "https://www.linkedin.com/in/akash-rajput-8a05a8366?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
+                { icon: Instagram, href: "https://www.instagram.com/akash.___69?igsh=MXdqa3Z1ZjBsOXR4eA%3D%3D&utm_source=qr" },
               ].map((social, idx) => (
                 <a
                   key={idx}

@@ -7,8 +7,8 @@ const projects = [
       "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
     image: "/projects/project1.png",
     tags: ["React", "Typescript", "NodeJS"],
-    link: "#",
-    github: "#",
+    link: "https://google.com",
+    github: "https://github.com",
   },
   {
     title: "E-Commerce Platform",
@@ -16,8 +16,8 @@ const projects = [
       "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
     image: "/projects/project2.png",
     tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
-    link: "#",
-    github: "#",
+    link: "https://google.com",
+    github: "https://github.com",
   },
   {
     title: "AI Writing Assistant",
@@ -25,8 +25,8 @@ const projects = [
       "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
     image: "/projects/project3.png",
     tags: ["React", "OpenAI", "Python", "FastAPI"],
-    link: "#",
-    github: "#",
+    link: "https://google.com",
+    github: "https://github.com",
   },
   {
     title: "Project Management Tool",
@@ -34,8 +34,8 @@ const projects = [
       "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
     image: "/projects/project4.png",
     tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
-    link: "#",
-    github: "#",
+    link: "https://google.com",
+    github: "https://github.com",
   },
 ];
 
